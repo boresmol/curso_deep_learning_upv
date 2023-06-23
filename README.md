@@ -1,2 +1,2 @@
-# curso_deep_learning_upv
+# Curso Deep Learning UPV
 Repositorio para el curso de "Deep Learning aplicado a señales e imágenes".
